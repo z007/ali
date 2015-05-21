@@ -18,7 +18,7 @@
  * [视屏中Linux一键安装web环境全攻略下载](http://help.aliyun.com/knowledge_detail.htm?spm=5176.750001.2.4.pWjpkl&knowledgeId=5974333)
  * [**选做**如果你买了数据盘用你的券或钱](http://help.aliyun.com/knowledge_list.htm?categoryId=8314852) 
  
- ## <a href="note.md" title="附录好东西值得一看">教程中的要书写的命令以及注意点看附录 </a>
+ ## <a href="note.html" title="附录好东西值得一看">教程中的要书写的命令以及注意点看附录 </a>
  
  
  
